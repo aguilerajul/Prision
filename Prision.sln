@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prision", "Prision.csproj", "{DC08B7B6-4ED7-D414-1E84-6A98CF2492DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prision.Editor", "Prision.Editor.csproj", "{0D54C8FD-EF6F-15E0-1EAD-C60094147666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC08B7B6-4ED7-D414-1E84-6A98CF2492DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC08B7B6-4ED7-D414-1E84-6A98CF2492DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC08B7B6-4ED7-D414-1E84-6A98CF2492DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC08B7B6-4ED7-D414-1E84-6A98CF2492DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D54C8FD-EF6F-15E0-1EAD-C60094147666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D54C8FD-EF6F-15E0-1EAD-C60094147666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D54C8FD-EF6F-15E0-1EAD-C60094147666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D54C8FD-EF6F-15E0-1EAD-C60094147666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
